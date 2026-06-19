@@ -11,18 +11,6 @@ A cleaned-up and improved JavaScript banking demo based on the original unfinish
 | stw | 3333 | Steven Thomas Williams |
 | ss | 4444 | Sarah Smith |
 
-## What was improved
-
-- Fixed broken transaction rendering.
-- Fixed incorrect `updateUI()` argument usage.
-- Removed unrelated lecture/practice code from the production script.
-- Replaced fake auto-login with real demo login behavior.
-- Added transaction dates and formatted transaction history.
-- Added currency formatting with `Intl.NumberFormat`.
-- Added validation messages for login, transfer, loan, sort, and close-account actions.
-- Added working auto-logout security timer.
-- Added responsive layout updates for desktop, tablet, and mobile.
-- Updated HTML title, accessibility labels, input types, and demo user instructions.
 
 ## How to run
 
