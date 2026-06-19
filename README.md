@@ -26,7 +26,7 @@ A cleaned-up and improved JavaScript banking demo based on the original unfinish
 
 ## How to run
 
-Open `index.html` in a browser. No server or build tools are required.
+Open `(https://samiqasem89.github.io/BankPro-Demo/)` in a browser. No server or build tools are required.
 
 ## Important note
 
